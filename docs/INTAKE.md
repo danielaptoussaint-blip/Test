@@ -7,24 +7,24 @@ rather than stall. Short answers are fine — fragments beat essays.
 
 ## A. Capacity and shape of the week
 
-1. Realistic hours per week for the real estate company? For the accounting firm?
-2. When do you actually work them — early mornings, evenings, weekends, lunch?
-3. What is the day job's real load right now — 40, 55, 65 hours?
-4. What's the one thing that, if the agents took it off your plate, buys back the most time?
-5. What do you want to still do yourself because you enjoy it or it's your edge?
+1. Realistic hours per week for the real estate company? For the accounting firm? **realistic hours per week for the real estate company is 2-5 hours a week and 5 hours a week for my accounting business that you will help me launch. **
+3. When do you actually work them — early mornings, evenings, weekends, lunch? **  Evenings and weekends**
+4. What is the day job's real load right now — 40, 55, 65 hours?  **40 hours for the day job**
+5. What's the one thing that, if the agents took it off your plate, buys back the most time? **helping me review financials and ensure they are carried at the appropriate basis, our Financials are tax basis, helping me maintain my inbox clean and reconcile bank accounts**
+6. What do you want to still do yourself because you enjoy it or it's your edge?  **I enjoy understanding more about the entities structures and building things from scratch, I don't really like the maintenance of spreadhsheet**
 
 ## B. Boundaries between the three businesses
 
-6. Does Decker have a moonlighting, outside-business, or conflict-of-interest policy? Has anything been disclosed or approved?
-7. Does Decker know about the real estate company and the accounting firm?
-8. Do you invest in, transact with, or serve any party connected to Decker? (Any overlap between your own deals and Decker's markets, sponsors, lenders, or brokers?)
-9. Do any of your accounting-firm clients touch Decker, its sponsors, or its investors?
-10. Which devices/accounts are Decker's and which are yours? (Agents must never write Decker data into your personal accounts or vice versa.)
+6. Does Decker have a moonlighting, outside-business, or conflict-of-interest policy? Has anything been disclosed or approved?  **nothing of that with decker, they command my full-time attention but no no-compete on the side **
+7. Does Decker know about the real estate company and the accounting firm? they do not. 
+8. Do you invest in, transact with, or serve any party connected to Decker? (Any overlap between your own deals and Decker's markets, sponsors, lenders, or brokers?)  **I do not**
+9. Do any of your accounting-firm clients touch Decker, its sponsors, or its investors? **I dont have any clients yet for the accounting firm, i will rely on you to help me build this business**
+10. Which devices/accounts are Decker's and which are yours? (Agents must never write Decker data into your personal accounts or vice versa.) **I am using the Decker capital computer device now but also have a personal computer**
 11. Anything that must NEVER be automated, drafted, or touched by an agent?
 
 ## C. Day job — Controller to CFO
 
-12. Who do you report to, and who decides the CFO promotion? What's their stated bar?
+12. Who do you report to, and who decides the CFO promotion? What's their stated bar? **I report to the COO and CEO and the CEO is who decided on my promotion, I dont know their stated bar yet because I have been here for very little time but I am gaining more visibility and would like to continue doing so, so I will rely on your input to continue guiding and pushing me further towards the CFO seat**
 13. Is there an actual CFO seat open, a timeline, or is this a case you're building?
 14. What's the honest gap between you and that seat — technical, exposure, executive presence, headcount, fundraising, board time?
 15. How many entities do you close, and on what timeline (day 5? day 10?)?

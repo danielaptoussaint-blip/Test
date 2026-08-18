@@ -25,10 +25,10 @@ rather than stall. Short answers are fine — fragments beat essays.
 ## C. Day job — Controller to CFO
 
 12. Who do you report to, and who decides the CFO promotion? What's their stated bar? **I report to the COO and CEO and the CEO is who decided on my promotion, I dont know their stated bar yet because I have been here for very little time but I am gaining more visibility and would like to continue doing so, so I will rely on your input to continue guiding and pushing me further towards the CFO seat**
-13. Is there an actual CFO seat open, a timeline, or is this a case you're building?
-14. What's the honest gap between you and that seat — technical, exposure, executive presence, headcount, fundraising, board time?
-15. How many entities do you close, and on what timeline (day 5? day 10?)?
-16. Systems: GL, property management, consolidation, reporting, AP, banking?
+13. Is there an actual CFO seat open, a timeline, or is this a case you're building?  **this is a case I am building, no current CFO in place and no timeline yet**
+14. What's the honest gap between you and that seat — technical, exposure, executive presence, headcount, fundraising, board time? **all**
+15. How many entities do you close, and on what timeline (day 5? day 10?)? **3 entities by the 20th, too late?**
+16. Systems: GL, property management, consolidation, reporting, AP, banking? 
 17. What are you currently the bottleneck on that a CFO wouldn't be?
 18. What recurring deliverables go to Shane, Peleg, the board, lenders, or Citrin Cooperman — and when?
 19. Any live workstreams an agent should track (audit, refi, acquisition, system implementation, tax provision)?

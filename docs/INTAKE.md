@@ -28,18 +28,18 @@ rather than stall. Short answers are fine — fragments beat essays.
 13. Is there an actual CFO seat open, a timeline, or is this a case you're building?  **this is a case I am building, no current CFO in place and no timeline yet**
 14. What's the honest gap between you and that seat — technical, exposure, executive presence, headcount, fundraising, board time? **all**
 15. How many entities do you close, and on what timeline (day 5? day 10?)? **3 entities by the 20th, too late?**
-16. Systems: GL, property management, consolidation, reporting, AP, banking? 
-17. What are you currently the bottleneck on that a CFO wouldn't be?
-18. What recurring deliverables go to Shane, Peleg, the board, lenders, or Citrin Cooperman — and when?
-19. Any live workstreams an agent should track (audit, refi, acquisition, system implementation, tax provision)?
-20. What does a "win" look like this quarter, in their eyes not yours?
+16. Systems: GL, property management, consolidation, reporting, AP, banking? **Yardi for GL and property management and consolidation and reporting and AP, banking is a mix of VAlley and City National**
+17. What are you currently the bottleneck on that a CFO wouldn't be? **My bottleneck is not having an internal team to post the entries for me, would love to automate the monthly posting of entries**
+18. What recurring deliverables go to Shane, Peleg, the board, lenders, or Citrin Cooperman — and when? **I created a tool to report the financials to both peleg and shane on a monthly basis, financials also go out to lenders, Citrin Cooperman is most likely not be the accounting firm, their delivable to us is a monthly reportig package**
+19. Any live workstreams an agent should track (audit, refi, acquisition, system implementation, tax provision)?  **all of the above**
+20. What does a "win" look like this quarter, in their eyes not yours? **a win looks like me being able to automate the functions here so we can save money with the accounting service provider**
 
 ## D. Real estate company (yours)
 
-21. Name, entity structure, states, and current stage?
-22. Strategy: asset class, hold period, target deal size, markets?
-23. What do you own today — unit count, doors, value, debt?
-24. Are you sponsoring/syndicating with outside capital, or investing your own?
+21. Name, entity structure, states, and current stage?  **this is a new company that I will need help from AI to help structure**
+22. Strategy: asset class, hold period, target deal size, markets? **we are still learning, but buy box is multifamily investments to be held for 5-7 years, target deal size $3MM, in Florida, Texas, and growing markets, definded by growth of population and jobs**
+23. What do you own today — unit count, doors, value, debt? **nothing yet, I need help to strategize our first buy**
+24. Are you sponsoring/syndicating with outside capital, or investing your own? **outside capital, this is a weak side of mine that I need to learn more how to syndicate and raise capital**
 25. If outside capital: how many investors, what structure, what reporting have you promised, and when did they last hear from you?
 26. Where do deals come from today — brokers, off-market, wholesalers, relationships?
 27. What's in the pipeline right now, and what stage is each?
@@ -50,7 +50,7 @@ rather than stall. Short answers are fine — fragments beat essays.
 
 ## E. Accounting services firm (yours, solo)
 
-32. Firm name, entity, licensure status (CPA active? which states?), PLI in place?
+32. Firm name, entity, licensure status (CPA active? which states?), PLI in place?  **Nothing as of today, the agent will help me define the services to be provided based on my current strenghts, I need to have another source of income**
 33. Current clients: how many, what do they pay, what do you deliver?
 34. Service lines — bookkeeping, controller-as-a-service, fund/partnership accounting, reconstructions, tax?
 35. Who's the ideal client, and who do you want to stop serving?
@@ -63,8 +63,8 @@ rather than stall. Short answers are fine — fragments beat essays.
 
 ## F. Marketing, content, brand
 
-42. Are you marketing the real estate company, the firm, both, or building a personal brand that feeds both?
-43. Who is the audience you actually want — investors, sellers, small business owners, sponsors, brokers?
+42. Are you marketing the real estate company, the firm, both, or building a personal brand that feeds both? **wE have a marketing director at DEcker Capital LLC and our own branding, for DEcker capital your job is to follow the branding, for the other entities you job is to be a marketing guru to come up with branding and strategy for both the real estate and accounting company (accounting services to be decided after you and I do a study)**
+43. Who is the audience you actually want — investors, sellers, small business owners, sponsors, brokers? 
 44. Where do they pay attention — LinkedIn, email, in-person/conferences, referral only?
 45. What do you publish today, and how did it go?
 46. How often will you realistically publish, and are you willing to be on camera?
